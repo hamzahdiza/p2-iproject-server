@@ -18,7 +18,7 @@ List of available endpoints:
 
 &nbsp;
 
-## 1. POST /users/register
+## 1. POST /register
 
 Request:
 
@@ -78,7 +78,7 @@ OR
 
 ```
 
-## 2. POST /users/login
+## 2. POST /login
 
 Request:
 
